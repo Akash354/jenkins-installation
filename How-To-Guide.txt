@@ -1,0 +1,6 @@
+Steps to Install Jenkins on your machine
+
+1. Clone the git repo on your system (git clone <git-repo-url)
+2. Go into the directory called "Jenkins-Installation"
+3. Change the permission for jenkins-ubuntu.sh (chmod +x <script-nmae>.sh)
+4. Run the script (./<script-name>)
